@@ -4,6 +4,7 @@
 	font-family: Droid Sans;
 	margin-bottom: 0;
 	padding: 10px;
+	/*border: 1px solid black;*/
 }
 
 p{
@@ -37,6 +38,7 @@ h1{
 	text-align: center;
 	display: block;
 	background-color: white;
+
 }
 
 .title,.media{
@@ -56,8 +58,9 @@ h1{
 }
 
 .button0{
-	margin-left: 620px;
+	/*margin-left: 620px;*/
 	margin-bottom: 20px;
+	margin: auto;
 }
 
 .button1{
@@ -69,7 +72,7 @@ h1{
 
 .content{
 	text-align: justify;
-	margin-left: 430px;
+	margin: auto;
 	width: 500px;
 	color: black;
 	word-spacing: 0.3em;
